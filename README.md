@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/my_self_ayush" target="blank"><img src="https://img.shields.io/twitter/follow/my_self_ayush?logo=twitter&style=for-the-badge" alt="my_self_ayush" /></a> </p>
 
-- 🔭 I’m currently working on [GeniaTEQ Private Limited](https://www.geniateq.com/)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Java Programming**
 
