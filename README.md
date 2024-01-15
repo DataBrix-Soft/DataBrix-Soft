@@ -13,16 +13,10 @@
 
 - 📫 How to reach me **https://instagram.com/my_self.ayush**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Us:</h3>
 <p align="left">
-<a href="https://twitter.com/my_self_ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="my_self_ayush" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-agarwal-445191233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-agarwal-445191233/" height="30" width="40" /></a>
-<a href="https://fb.com/yush agarwalhttps://www.facebook.com/profile.php?id=100026278219012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yush agarwalhttps://www.facebook.com/profile.php?id=100026278219012" height="30" width="40" /></a>
-<a href="https://instagram.com/my_self.ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="my_self.ayush" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ayushagarwal2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushagarwal2021" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ayushjava/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayushjava/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/ayushagarwal202001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ayushagarwal202001/" height="30" width="40" /></a>
-<a href="https://discord.gg/08_ayush Agarwal#0273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="08_ayush Agarwal#0273" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
