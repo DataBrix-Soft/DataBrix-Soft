@@ -31,7 +31,7 @@
 </p>
 <h5 align="left">API Framework</h5>
 <p align="left"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/net.png" alt="angular" width="40" height="40"/> </a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/net.png" alt="angular" width="80" height="40"/> </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/python1.png" alt="next" width="40" height="40"/></a>
         <a href="https://vuejs.org/" target="_blank"> <img src="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/java.png" alt="vuejs" width="40" height="40"/> </a>
       <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/node.png" alt="react" width="60" height="40"/> </a>
