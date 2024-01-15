@@ -34,8 +34,8 @@
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/python1.png" alt="next" width="40" height="40"/></a>
         <a href="https://vuejs.org/" target="_blank"> <img src="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/java.png" alt="vuejs" width="40" height="40"/> </a>
-      <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/node.png" alt="react" width="40" height="40"/> </a>
-   <a href="https://reactnative.dev/" target="_blank"> <img src="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/express.png" alt="javascript" width="40" height="40"/> </a>
+      <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/node.png" alt="react" width="60" height="40"/> </a>
+   <a href="https://reactnative.dev/" target="_blank"> <img src="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/express.png" alt="javascript" width="70" height="40"/> </a>
  <a href="https://flutter.dev/?gclid=EAIaIQobChMI6tvEwfDegwMVRhWDAx0QxwTREAAYASAAEgJGTPD_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/apollo.png" alt="javascript" width="40" height="40"/> </a>
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/graphql.png" alt="html5" width="40" height="40"/> </a>
 </p>
