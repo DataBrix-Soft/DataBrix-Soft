@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/DataBrifsoft%20Logo%20-%20White.png" alt="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/DataBrifsoft%20Logo%20-%20White.png" height="30%" width="100%"/>
+<img align="center" src="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/DataBrifsoft%20Logo%20-%20White.png" alt="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/DataBrifsoft%20Logo%20-%20White.png" height="27%" width="90%"/>
 <h1 align="center" style="color:yellow;">Welcome to DataBrix - Crafting Digital Excellence</h1>
 <h3 align="center">𝘞𝘦 𝘢𝘳𝘦 𝘰𝘯 𝘢 𝘮𝘪𝘴𝘴𝘪𝘰𝘯 𝘵𝘰 𝘦𝘮𝘱𝘰𝘸𝘦𝘳 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴𝘦𝘴 𝘢𝘯𝘥 𝘪𝘯𝘥𝘪𝘷𝘪𝘥𝘶𝘢𝘭𝘴 𝘸𝘪𝘵𝘩 𝘳𝘰𝘣𝘶𝘴𝘵 𝘮𝘰𝘣𝘪𝘭𝘦 𝘢𝘱𝘱𝘴 𝘢𝘯𝘥 𝘸𝘦𝘣𝘴𝘪𝘵𝘦𝘴 𝘵𝘩𝘢𝘵 𝘳𝘦𝘥𝘦𝘧𝘪𝘯𝘦 𝘶𝘴𝘦𝘳 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦𝘴. 𝘖𝘶𝘳 𝘮𝘪𝘴𝘴𝘪𝘰𝘯 𝘪𝘴 𝘳𝘰𝘰𝘵𝘦𝘥 𝘪𝘯 𝘢 𝘤𝘰𝘮𝘮𝘪𝘵𝘮𝘦𝘯𝘵 𝘵𝘰 𝘲𝘶𝘢𝘭𝘪𝘵𝘺, 𝘤𝘳𝘦𝘢𝘵𝘪𝘷𝘪𝘵𝘺, 𝘢𝘯𝘥 𝘤𝘰𝘯𝘵𝘪𝘯𝘶𝘰𝘶𝘴 𝘪𝘯𝘯𝘰𝘷𝘢𝘵𝘪𝘰𝘯.</h3>
 
