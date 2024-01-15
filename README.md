@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to DataBrix - Crafting Digital Excellence</h1>
-<h3 align="center">𝐻𝑒𝓎 𝐸𝓋𝑒𝓇𝓎𝑜𝓃𝑒, 𝐼'𝓂 𝓐𝔂𝓾𝓼𝓱 𝓐𝓰𝓪𝓻𝔀𝓪𝓵 , 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓅𝓊𝓇𝓈𝓊𝒾𝓃𝑔 𝓂𝓎 𝐵.𝒯𝑒𝒸𝒽 𝒹𝑒𝑔𝓇𝑒𝑒 𝒾𝓃 𝓒𝓸𝓶𝓹𝓾𝓽𝓮𝓻 𝓼𝓬𝓲𝓮𝓷𝓬𝓮 & 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰 𝒟𝑒𝓅𝒶𝓇𝓉𝓂𝑒𝓃𝓉 𝒻𝓇𝑜𝓂 𝒜𝓈𝒶𝓃𝓈𝑜𝓁 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇𝒾𝓃𝑔 𝒞𝑜𝓁𝓁𝑒𝑔𝑒</h3>
+<h3 align="center">𝒲𝑒 𝒶𝓇𝑒 𝑜𝓃 𝒶 𝓂𝒾𝓈𝓈𝒾𝑜𝓃 𝓉𝑜 𝑒𝓂𝓅𝑜𝓌𝑒𝓇 𝒷𝓊𝓈𝒾𝓃𝑒𝓈𝓈𝑒𝓈 𝒶𝓃𝒹 𝒾𝓃𝒹𝒾𝓋𝒾𝒹𝓊𝒶𝓁𝓈 𝓌𝒾𝓉𝒽 𝓇𝑜𝒷𝓊𝓈𝓉 𝓂𝑜𝒷𝒾𝓁𝑒 𝒶𝓅𝓅𝓈 𝒶𝓃𝒹 𝓌𝑒𝒷𝓈𝒾𝓉𝑒𝓈 𝓉𝒽𝒶𝓉 𝓇𝑒𝒹𝑒𝒻𝒾𝓃𝑒 𝓊𝓈𝑒𝓇 𝑒𝓍𝓅𝑒𝓇𝒾𝑒𝓃𝒸𝑒𝓈. 𝒪𝓊𝓇 𝓂𝒾𝓈𝓈𝒾𝑜𝓃 𝒾𝓈 𝓇𝑜𝑜𝓉𝑒𝒹 𝒾𝓃 𝒶 𝒸𝑜𝓂𝓂𝒾𝓉𝓂𝑒𝓃𝓉 𝓉𝑜 𝓆𝓊𝒶𝓁𝒾𝓉𝓎, 𝒸𝓇𝑒𝒶𝓉𝒾𝓋𝒾𝓉𝓎, 𝒶𝓃𝒹 𝒸𝑜𝓃𝓉𝒾𝓃𝓊𝑜𝓊𝓈 𝒾𝓃𝓃𝑜𝓋𝒶𝓉𝒾𝑜𝓃.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushagarwal20&label=Profile%20views&color=0e75b6&style=flat" alt="ayushagarwal20" /> </p>
 
