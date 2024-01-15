@@ -14,7 +14,7 @@
 
 </p>
 
-<h3 align="left">Languages and Tools we use:</h3>
+<h3 align="left">Languages and Tools we Expertise:</h3>
 <h5 align="left">UI Framework</h5>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
@@ -38,6 +38,15 @@
    <a href="https://reactnative.dev/" target="_blank"> <img src="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/express.png" alt="javascript" width="70" height="40"/> </a>
  <a href="https://flutter.dev/?gclid=EAIaIQobChMI6tvEwfDegwMVRhWDAx0QxwTREAAYASAAEgJGTPD_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/apollo.png" alt="javascript" width="40" height="40"/> </a>
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/graphql.png" alt="html5" width="40" height="40"/> </a>
+</p>
+
+<h5 align="left">DataBase</h5>
+<p>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/DataBrix-Soft/DataBrix-Soft/blob/main/ssms.svg" alt="postgresql" width="40" height="40"/> </a>
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DataBrix-Soft&show_icons=true&locale=en&layout=compact" alt="DataBrix-Soft" /></p>
