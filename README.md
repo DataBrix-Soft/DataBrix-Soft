@@ -1,13 +1,11 @@
 <h1 align="center" style="color:yellow;">Welcome to DataBrix - Crafting Digital Excellence</h1>
 <h3 align="center">𝘞𝘦 𝘢𝘳𝘦 𝘰𝘯 𝘢 𝘮𝘪𝘴𝘴𝘪𝘰𝘯 𝘵𝘰 𝘦𝘮𝘱𝘰𝘸𝘦𝘳 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴𝘦𝘴 𝘢𝘯𝘥 𝘪𝘯𝘥𝘪𝘷𝘪𝘥𝘶𝘢𝘭𝘴 𝘸𝘪𝘵𝘩 𝘳𝘰𝘣𝘶𝘴𝘵 𝘮𝘰𝘣𝘪𝘭𝘦 𝘢𝘱𝘱𝘴 𝘢𝘯𝘥 𝘸𝘦𝘣𝘴𝘪𝘵𝘦𝘴 𝘵𝘩𝘢𝘵 𝘳𝘦𝘥𝘦𝘧𝘪𝘯𝘦 𝘶𝘴𝘦𝘳 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦𝘴. 𝘖𝘶𝘳 𝘮𝘪𝘴𝘴𝘪𝘰𝘯 𝘪𝘴 𝘳𝘰𝘰𝘵𝘦𝘥 𝘪𝘯 𝘢 𝘤𝘰𝘮𝘮𝘪𝘵𝘮𝘦𝘯𝘵 𝘵𝘰 𝘲𝘶𝘢𝘭𝘪𝘵𝘺, 𝘤𝘳𝘦𝘢𝘵𝘪𝘷𝘪𝘵𝘺, 𝘢𝘯𝘥 𝘤𝘰𝘯𝘵𝘪𝘯𝘶𝘰𝘶𝘴 𝘪𝘯𝘯𝘰𝘷𝘢𝘵𝘪𝘰𝘯.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushagarwal20&label=Profile%20views&color=0e75b6&style=flat" alt="ayushagarwal20" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DataBrix-Soft&label=Profile%20views&color=0e75b6&style=flat" alt="DataBrix-Soft" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushagarwal20" alt="ayushagarwal20" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DataBrix-Soft" alt="DataBrix-Soft" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/my_self_ayush" target="blank"><img src="https://img.shields.io/twitter/follow/my_self_ayush?logo=twitter&style=for-the-badge" alt="my_self_ayush" /></a> </p>
-
-- 🔭 I’m currently working on 
+- 🔭 W currently working on 
 
 - 🌱 I’m currently learning **Java Programming**
 
